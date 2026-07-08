@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DAGDAG PUHUNAN, ZERO INTEREST
 ## Loan Management Information System
 ### LGU San Pedro, Laguna — Capstone Thesis Project
@@ -125,3 +126,6 @@ See [ZAP_TESTING_GUIDE.md](ZAP_TESTING_GUIDE.md) for security testing.
 ## License
 
 Academic capstone project — LGU San Pedro, Laguna, 2026.
+=======
+# dagdag-puhunan
+>>>>>>> aaa64d8657c78e2700db0e34dfc7f35e484a89ff
